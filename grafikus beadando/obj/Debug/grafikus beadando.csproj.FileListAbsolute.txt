@@ -1,0 +1,10 @@
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\bin\Debug\grafikus beadando.exe.config
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\bin\Debug\grafikus beadando.exe
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\bin\Debug\grafikus beadando.pdb
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\obj\Debug\grafikus beadando.csproj.AssemblyReference.cache
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\obj\Debug\grafikus_beadando.Halmazok.resources
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\obj\Debug\grafikus_beadando.Properties.Resources.resources
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\obj\Debug\grafikus beadando.csproj.GenerateResource.cache
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\obj\Debug\grafikus beadando.csproj.CoreCompileInputs.cache
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\obj\Debug\grafikus beadando.exe
+D:\!SULI\programozás\Csharp\grafikus beadando\grafikus beadando\obj\Debug\grafikus beadando.pdb
